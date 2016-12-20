@@ -1,0 +1,9 @@
+[package]
+authors = ["Philipp Oppermann <dev@phil-opp.com>"]
+name = "issue"
+version = "0.1.0"
+
+[dependencies.foo]
+path = "libs/foo"
+
+[workspace]
